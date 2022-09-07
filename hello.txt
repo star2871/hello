@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello hi
+=======
+hello
+how are you
+>>>>>>> 28dc887 ([feature] edit:hello.txt)
