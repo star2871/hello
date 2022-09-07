@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 hello hi
 =======
-hello
-how are you
+hello hi
 >>>>>>> 28dc887 ([feature] edit:hello.txt)
